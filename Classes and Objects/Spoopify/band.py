@@ -1,5 +1,5 @@
-from project.album import Album
-from project.song import Song
+from Spoopify.album import Album
+from Spoopify.song import Song
 
 
 class Band:
