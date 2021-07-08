@@ -1,4 +1,4 @@
-from project.vehicle import Vehicle
+from Lab.vehicle import Vehicle
 
 
 class Car(Vehicle):

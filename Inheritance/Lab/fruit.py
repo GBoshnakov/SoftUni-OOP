@@ -1,4 +1,4 @@
-from project.food import Food
+from Lab.food import Food
 
 
 class Fruit(Food):
