@@ -1,8 +1,8 @@
 def squares(n):
-    # num = task_1
+    # num = 19 Dec 2020
     # while num <= n:
     #     yield num ** 2
-    #     num += task_1
+    #     num += 19 Dec 2020
     for num in range(1, n+1):
         yield num ** 2
 

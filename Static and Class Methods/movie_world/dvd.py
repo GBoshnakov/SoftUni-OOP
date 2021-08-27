@@ -1,6 +1,6 @@
 class DVD:
     MONTHS = {
-        "task_1": "January",
+        "19 Dec 2020": "January",
         "2": "February",
         "3": "March",
         "4": "April",
